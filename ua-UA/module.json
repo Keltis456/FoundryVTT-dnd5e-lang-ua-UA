@@ -11,11 +11,6 @@
   ],
   "minimumSystemVersion": "1.6.0",
 
-  "dependencies": [{
-    "name": "babele",
-    "type": "module"
-  }],
-
   "author": "Murka, Keltis",
 
   "languages": [{
