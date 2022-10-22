@@ -25,6 +25,6 @@
   }],
 
   "url": "https://github.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA",
-  "manifest": "https://github.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA/raw/master/it-IT/module.json",
+  "manifest": "https://raw.githubusercontent.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA/main/ua-UA/module.json",
   "download": "https://github.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA/archive/refs/heads/main.zip"
 }
