@@ -1,0 +1,30 @@
+{
+  "name": "translation-dnd5e-ua",
+  "title": "DnD5e Ukrainian Translation",
+  "description": "Add Ukrainian language to dnd5e system for FoundryVTT.",
+  "version": "0.10",
+  "minimumCoreVersion" : "10",
+  "compatibleCoreVersion":"10",
+
+  "systems": [
+    "dnd5e"
+  ],
+  "minimumSystemVersion": "1.6.0",
+
+  "dependencies": [{
+    "name": "babele",
+    "type": "module"
+  }],
+
+  "author": "Murka, Keltis",
+
+  "languages": [{
+  	"lang": "ua",
+    "name": "Ukrainian",
+    "path": "ua.json"
+  }],
+
+  "url": "https://github.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA",
+  "manifest": "https://github.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA/raw/master/it-IT/module.json",
+  "download": "https://github.com/Keltis456/FoundryVTT-dnd5e-lang-ua-UA/archive/refs/heads/main.zip"
+}
