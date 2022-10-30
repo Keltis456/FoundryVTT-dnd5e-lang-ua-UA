@@ -2,7 +2,7 @@
   "name": "translation-dnd5e-ua",
   "title": "DnD5e Ukrainian Translation",
   "description": "Add Ukrainian language to dnd5e system for FoundryVTT.",
-  "version": "0.12",
+  "version": "0.13",
   "minimumCoreVersion" : "10",
   "compatibleCoreVersion":"10",
 
